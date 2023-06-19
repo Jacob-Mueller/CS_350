@@ -1,5 +1,5 @@
 # CS_350
-Embedded Systems
+Embedded Systems on the CC3220x-LaunchXL Dev Kit from Texas Instruments
 
 Summarize the project and what problem it was solving.
 
